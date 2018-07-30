@@ -1,5 +1,6 @@
 GIT FREE COURSE LINK: https://www.codecademy.com/courses/learn-git (COPY LINK AND PASTE IN YOUR BROWSERS URL, PRESS ENTER AND ENJOY LEARNING)
- NOTE-1: REFER TO CODEACADEMY GIT TUTORIALS FOR BETTER UNDERSTANDING. LINK IS GIVEN ABOVE. 
+ NOTE-1: REFER TO CODEACADEMY GIT TUTORIALS FOR BETTER UNDERSTANDING. LINK IS GIVEN ABOVE.
+ NOTE-2: INSTALL GitHub, ITS FREE AND AVAILABLE FOR WINDOWS, LINUX AND MAC. COPY AND PASTE LINK: https://desktop.github.com
 
 What is GIT?
 Git is standard version control system. Version control is a tool that helps to manage changes made to source code and documents 
@@ -33,5 +34,5 @@ source code/doc/project in chronological manner and then allowing you to referen
       
 -git log shows a list of all previous commits. Example: git log
 
-Note-2: Press enter after writing every command to be executed. Please refer to codeacademy free GIT tutorials to practise live and 
+Note-3: Press enter after writing every command to be executed. Please refer to codeacademy free GIT tutorials to practise live and 
 understand more.
