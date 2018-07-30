@@ -1,0 +1,37 @@
+GIT FREE COURSE LINK: https://www.codecademy.com/courses/learn-git (COPY LINK AND PASTE IN YOUR BROWSERS URL, PRESS ENTER AND ENJOY LEARNING)
+ NOTE-1: REFER TO CODEACADEMY GIT TUTORIALS FOR BETTER UNDERSTANDING. LINK IS GIVEN ABOVE. 
+
+What is GIT?
+Git is standard version control system. Version control is a tool that helps to manage changes made to source code and documents 
+time by time. It keeps records of every modification made to the code, project or doc. It is a kind of database that stores changes made to 
+source code/doc/project in chronological manner and then allowing you to reference them as needed.
+
+
+ This is basic GIT workflow and commands to help keep track of changes made to a project:
+ 
+
+-git init creates a new Git repository. 
+ Example: git init
+    Repository is a central location in which data is stored and managed.
+
+-git status inspects the contents of the working directory and staging area. 
+ Example: git status filename.extention .
+    A Working Directory: where you'll be doing all the work: creating, editing, deleting and organizing files.
+    A Staging Area: where you'll list changes you make to the working directory.
+    
+-git add adds files from the working directory to the staging area. 
+ Exampple: git add filename.extension . 
+
+-git diff shows the difference between the working directory and the staging area. Example: git diff filename.extention
+
+-git commit permanently stores file changes from the staging area in the repository. 
+ Example: git commit -m "Complete first line of dialogue"
+    Standard Conventions for Commit Messages:
+      Must be in quotation marks.
+      Written in the present tense.
+      Should be brief (50 characters or less) when using -m.
+      
+-git log shows a list of all previous commits. Example: git log
+
+Note-2: Press enter after writing every command to be executed. Please refer to codeacademy free GIT tutorials to practise live and 
+understand more.
